@@ -1,4 +1,4 @@
-- 👋 Hi, I’m farahmoataz
+- 👋 Hi, I’m Farah Moataz
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Backend
 
